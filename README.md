@@ -11,7 +11,7 @@ python generate_CNNfeatures.py
 ```
 
 ## Test Demo
-The model weights provided in `model/SIONR.pt` are the saved weights when running a random split of KoNViD-1k. The random split is shown in [data/train_val_test_split.xlsx](https://github.com/subpic/koniq/blob/master/metadata/koniq10k_distributions_sets.csv), which contains video file names, scores, and train/validation/test split assignment (random).
+The model weights provided in `model/SIONR.pt` are the saved weights when running a random split of KoNViD-1k. The random split is shown in [data/train_val_test_split.xlsx](https://github.com/lorenzowu/SIONR/blob/master/data/train_val_test_split.xlsx), which contains video file names, scores, and train/validation/test split assignment (random).
 ```
 python test_demo.py
 ```
