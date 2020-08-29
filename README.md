@@ -15,4 +15,4 @@ The model weights provided in `model/SIONR.pt` are the saved weights when runnin
 ```
 python test_demo.py
 ```
-The test results are shown in [result/test_result.xlsx]().
+The test results are shown in [result/test_result.xlsx](https://github.com/lorenzowu/SIONR/blob/master/result/test_result.xlsx).
