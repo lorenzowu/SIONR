@@ -25,7 +25,14 @@ The mean (std) values of the first twenty index splits (60%:20%:20% train:val:te
 | RMSE  | 0.3688 (0.0160) | 10.4744 (0.6052)|
 
 
-## NR-VQA
+## UGC-VQA Datasets
+| BVQA Dataset | Download | Paper |
+|:----:|:----:|:----:|
+| **KoNViD-1k (2017)** |  [KoNViD-1k](http://database.mmsp-kn.de/konvid-1k-database.html)  | [Hosu et al. QoMEX'17](https://datasets.vqa.mmsp-kn.de/archives/papers/Hosu-Konvid-1k.pdf)
+| **LIVE-VQC (2018)** |  [LIVE-VQC](https://live.ece.utexas.edu/research/LIVEVQC/index.html)  | [Sinno et al. TIP'19](https://ieeexplore.ieee.org/document/8463581)
+
+
+## NR-VQA models
 |    Model   | Download            | Paper             |
 |:------------:|:-------------------:|:-------------------:|
 | NIQE        | [NIQE](http://live.ece.utexas.edu/research/Quality/niqe_release.zip) | [Mittal et al. IEEE SPL'12](https://ieeexplore.ieee.org/document/6353522/)
