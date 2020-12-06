@@ -27,4 +27,4 @@ The test results are shown in [result/test_result.xlsx](https://github.com/loren
 | HIGRADE  | [HIGRADE](http://live.ece.utexas.edu/research/Quality/VideoBLIINDS_Code_MicheleSaad.zip) | [Kundu et al. TIP'17](https://ieeexplore.ieee.org/abstract/document/7885070)
 | FRIQUEE| [FRIQUEE](http://live.ece.utexas.edu/research/Quality/FRIQUEE_Release.zip) | [Ghadiyaram et al. JOV'17] (https://jov.arvojournals.org/article.aspx?articleid=2599945)
 | VSFA| [VSFA](https://github.com/lidq92/VSFA) | [Li et al. ACM MM'19] (https://dl.acm.org/citation.cfm?doid=3343031.3351028)
-| TLVQM       | [nr-vqa-consumervideo](https://github.com/jarikorhonen/nr-vqa-consumervideo) | [Korhenen et al. TIP'19](https://ieeexplore.ieee.org/document/8742797)]
+| TLVQM       | [nr-vqa-consumervideo](https://github.com/jarikorhonen/nr-vqa-consumervideo) | [Korhenen et al. TIP'19](https://ieeexplore.ieee.org/document/8742797)
