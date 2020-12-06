@@ -4,7 +4,7 @@
 SIONR code for the following papers:
 
 - Wei Wu, Qinyao Li, Zhenzhong Chen, Shan Liu. Semantic Information Oriented No-Reference Video Quality Assessment.
-![Framework](framework.png)
+![framework](framework.png)
 ## Feature Extraction
 ```
 python generate_CNNfeatures.py
