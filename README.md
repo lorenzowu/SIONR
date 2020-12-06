@@ -43,3 +43,11 @@ The mean (std) values of the first twenty index splits (60%:20%:20% train:val:te
 | FRIQUEE | [FRIQUEE](http://live.ece.utexas.edu/research/Quality/FRIQUEE_Release.zip) | [Ghadiyaram et al. JOV'17](https://jov.arvojournals.org/article.aspx?articleid=2599945)
 | VSFA        | [VSFA](https://github.com/lidq92/VSFA) | [Li et al. ACM MM'19](https://dl.acm.org/citation.cfm?doid=3343031.3351028)
 | TLVQM       | [nr-vqa-consumervideo](https://github.com/jarikorhonen/nr-vqa-consumervideo) | [Korhenen et al. TIP'19](https://ieeexplore.ieee.org/document/8742797)
+
+
+### Requirement
+
+- PyTorch
+
+### Contact
+wuwei_whu AT whu DOT edu DOT cn.
