@@ -17,6 +17,15 @@ python test_demo.py
 ```
 The test results are shown in [result/test_result.xlsx](https://github.com/lorenzowu/SIONR/blob/master/result/test_result.xlsx).
 
+The mean (std) values of the first twenty index splits (60%:20%:20% train:val:test)
+|       | KoNViD-1k | CVD2014 |
+| ----  |    ----   |   ----  |
+| PLCC  | 0.7754 (0.0192) | 0.8678 (0.0315) |
+| SROCC | 0.7728 (0.0189) | 0.8698 (0.0368) | 
+| KROCC | 0.5784 (0.0194) | 0.6950 (0.0465) | 
+| RMSE  | 0.4205 (0.0211) | 10.8572 (1.3518)|
+
+
 ## NR-VQA
 |    Model   | Download            | Paper             |
 |:------------:|:-------------------:|:-------------------:|
