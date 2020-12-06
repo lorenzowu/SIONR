@@ -20,4 +20,9 @@ The test results are shown in [result/test_result.xlsx](https://github.com/loren
 ## NR-VQA
 |    Model   | Download            | Paper             |
 |:------------:|:-------------------:|:-------------------:|
+| NIQE        | [NIQE](http://live.ece.utexas.edu/research/Quality/niqe_release.zip) | [Mittal et al. IEEE SPL'12](https://ieeexplore.ieee.org/document/6353522/)
+| BRISQUE        | [BRISQUE](http://live.ece.utexas.edu/research/Quality/BRISQUE_release.zip) | [Mittal et al. TIP'12](https://ieeexplore.ieee.org/document/6272356/)
+| CORNIA        | [CORNIA](http://www.umiacs.umd.edu/user.php?path=pengye/research/CORNIA_release_v0.zip) | [Ye et al. CVPR'12](https://ieeexplore.ieee.org/document/6247789)
+| V-BLIINDS       | [V-BLIINDS](http://live.ece.utexas.edu/research/Quality/VideoBLIINDS_Code_MicheleSaad.zip) | [Saad et al. TIP'13](https://ieeexplore.ieee.org/abstract/document/6705673/)
+
 | TLVQM       | [nr-vqa-consumervideo](https://github.com/jarikorhonen/nr-vqa-consumervideo) | [Korhenen et al. TIP'19](https://ieeexplore.ieee.org/document/8742797)
