@@ -47,7 +47,7 @@ The mean (std) values of the first twenty index splits (60%:20%:20% train:val:te
 
 ### Requirement
 
-- PyTorch --scikit-video --pandas 
+- PyTorch, scikit-video, pandas 
 
 ### Contact
 wuwei_whu AT whu DOT edu DOT cn.
