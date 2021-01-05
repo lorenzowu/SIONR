@@ -45,13 +45,14 @@ The mean (std) values of the first twenty index splits (60%:20%:20% train:val:te
 | TLVQM       | [nr-vqa-consumervideo](https://github.com/jarikorhonen/nr-vqa-consumervideo) | [Korhenen et al. TIP'19](https://ieeexplore.ieee.org/document/8742797)
 
 ### Citation
+```
 @article{wu2021semantic,
   title={Semantic Information Oriented No-Reference Video Quality Assessment},
   author={Wu, Wei and Li, Qinyao and Chen, Zhenzhong and Liu, Shan},
   journal={IEEE Signal Processing Letters}, 
-  year={2021},
+  year={2021}
 }
-
+```
 ### Requirement
 
 - PyTorch, scikit-video, pandas 
